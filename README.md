@@ -13,3 +13,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a vegan that's super pasionate about saving the planet, saving animals, and helping underpriveleged communities
 
+<img src="https://anchor.digitalocean.com/rs/113-DTN-266/images/Tree%20Badge.png" alt="Digital Ocean Tree" width="200" height="200">
