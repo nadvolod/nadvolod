@@ -2,7 +2,7 @@
 
 #### I'm Nikolay Advolodkin
 
-- 🔭 I’m foundere of [Ultimate QA](https://ultimateqa.com/)
+- 🔭 I’m the founder of [Ultimate QA](https://ultimateqa.com/)
 - 🌱 I’m currently working on [Sauce Bindings](https://github.com/saucelabs/sauce_bindings)
 - 🤔 I’m looking for help with ReactJS and React Native
 - 💬 Ask me about environmentalism, veganism, test automation, and fitness
