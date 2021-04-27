@@ -4,7 +4,7 @@
 
 - 🔭 I’m the founder of [Ultimate QA](https://ultimateqa.com/)
 - 🌱 I’m currently working on [Sauce Bindings](https://github.com/saucelabs/sauce_bindings)
-- 🤔 I’m looking for help with ReactJS and React Native
+- 🤔 I’m looking for help with [Testing Best Practices](https://github.com/nadvolod/testing-best-practices)
 - 💬 Ask me about environmentalism, veganism, test automation, and fitness
 - 📫 How to reach me:
 [Website](https://ultimateqa.com/)
