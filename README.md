@@ -9,7 +9,7 @@
 - 📫 How to reach me:
 [Website](https://ultimateqa.com/)
 [LinkedIn](https://www.linkedin.com/in/nikolayadvolodkin/)
-[Twitter](https://twitter.com/home)
+[Twitter](https://twitter.com/Nikolay_A00)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a vegan that's super pasionate about saving the planet, saving animals, and helping underpriveleged communities
 
