@@ -5,7 +5,7 @@
 - 🔭 I’m the founder of [Ultimate QA](https://ultimateqa.com/)
 - 🌱 I’m currently working on [Sauce Bindings](https://github.com/saucelabs/sauce_bindings)
 - 🤔 I’m looking for help with [Testing Best Practices](https://github.com/nadvolod/testing-best-practices)
-- 💬 Ask me about environmentalism, veganism, test automation, and fitness
+- 🥗 Like my content? [Buy me a salad](https://www.buymeacoffee.com/nikolaya)
 - 📫 How to reach me:
 [Website](https://ultimateqa.com/)
 [LinkedIn](https://www.linkedin.com/in/nikolayadvolodkin/)
