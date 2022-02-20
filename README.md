@@ -10,7 +10,7 @@
 [Youtube Tutorials](https://www.youtube.com/ultimateqa)
 [Blog](https://ultimateqa.com/)
 [LinkedIn](https://www.linkedin.com/in/nikolayadvolodkin/)
-[Twitter](https://twitter.com/Nikolay_A00)
+[Twitter](https://twitter.com/intent/follow?screen_name=nikolay_a00&region=follow_link)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a vegan that's super pasionate about saving the planet, saving animals, and helping underpriveleged communities
 
