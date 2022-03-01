@@ -1,18 +1,19 @@
-### Hi there 👋
+# Hi there 👋
 
-#### I'm Nikolay Advolodkin
+## I'm Nikolay Advolodkin
 
 - 🔭 I’m the founder of [Ultimate QA](https://ultimateqa.com/) 
-- 🌱 I’m currently working on [Sauce Bindings](https://github.com/saucelabs/sauce_bindings)
+- 🧑‍💻 I’m currently working on [Sauce Bindings](https://github.com/saucelabs/sauce_bindings)
 - 🤔 I’m looking for help with [Testing Best Practices](https://github.com/nadvolod/testing-best-practices)
 - 🥗 Like my content? [Buy me a salad](https://www.buymeacoffee.com/nikolaya)
 - 📫 How to reach me:
-[Youtube Tutorials](https://www.youtube.com/ultimateqa)
-[Blog](https://ultimateqa.com/)
-[LinkedIn](https://www.linkedin.com/in/nikolayadvolodkin/)
-[Twitter](https://twitter.com/intent/follow?screen_name=nikolay_a00&region=follow_link)
+    - [Youtube where you can learn at your pace](https://www.youtube.com/ultimateqa?sub_confirmation=1)
+    - [JS Testing Newsletter](https://ultimateqa.ck.page/js-testing-tips)
+    - [Read about testing](https://ultimateqa.com/)
+    - [LinkedIn](https://www.linkedin.com/in/nikolayadvolodkin/)
+    - [Twitter for great Dev quotes](https://twitter.com/intent/follow?screen_name=nikolay_a00&region=follow_link)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a vegan that's super pasionate about saving the planet, saving animals, and helping underpriveleged communities
+- ⚡ Fun fact: I'm a vegan that's pasionate about the 🌎, saving 🐮, and bridging the technical divide!
 
 <p align="center">
     <a href="https://github.com/nadvolod/github-readme-streak-stats">
