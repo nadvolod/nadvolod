@@ -3,8 +3,8 @@
 ## I'm Nikolay Advolodkin
 
 - 🔭 I’m the founder of [Ultimate QA](https://ultimateqa.com/) 
-- 🧑‍💻 I’m currently working on [Sauce Bindings](https://github.com/saucelabs/sauce_bindings)
-- 🤔 I’m looking for help with [Testing Best Practices](https://github.com/nadvolod/testing-best-practices)
+- 🧑‍💻 I’m currently working on [Java SDET Bootcamp](https://academy.ultimateqa.com/)
+- 🤔 I’m looking for help with [Java SDET Bootcamp](https://academy.ultimateqa.com/)
 - 🥗 Like my content? [Buy me a salad](https://www.buymeacoffee.com/nikolaya)
 - 📫 How to reach me:
     - [Youtube where you can learn at your pace](https://www.youtube.com/ultimateqa?sub_confirmation=1)
