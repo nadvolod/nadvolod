@@ -13,7 +13,7 @@
     - [LinkedIn](https://www.linkedin.com/in/nikolayadvolodkin/)
     - [Twitter for great Dev quotes](https://twitter.com/intent/follow?screen_name=nikolay_a00&region=follow_link)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a vegan that's pasionate about the 🌎, saving 🐮, and bridging the technical divide!
+- ⚡ Fun fact: I'm a vegan that's passionate about the 🌎, saving 🐮, and bridging the technical divide!
 
 <p align="center">
     <a href="https://github.com/nadvolod/github-readme-streak-stats">
