@@ -10,8 +10,9 @@
     - [Read about testing](https://ultimateqa.com/)
     - [LinkedIn](https://www.linkedin.com/in/nikolayadvolodkin/)
     - [Twitter for great Dev quotes](https://twitter.com/intent/follow?screen_name=nikolay_a00&region=follow_link)
+    - [Instagram to see my personal life](https://instagram.com/nikolay.advolodkin)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a vegan who's passionate about the 🌎, saving 🐮, and bridging the technical divide!
+- ⚡ Fun fact: I'm a Russian, Ukranian, Jew from Uzbekistan 😆
 
 <p align="center">
     <a href="https://github.com/nadvolod/github-readme-streak-stats">
