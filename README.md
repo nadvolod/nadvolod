@@ -16,7 +16,7 @@
 
 <p align="center">
     <a href="https://github.com/nadvolod/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nikolay's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nadvolod&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nikolay's streak" src="https://streak-stats.demolab.com/?user=nadvolod&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -32,7 +32,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/nadvolod/github-readme-activity-graph"><img alt="Nikolay's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nadvolod&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/nadvolod/github-readme-activity-graph"><img alt="Nikolay's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=nadvolod&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
