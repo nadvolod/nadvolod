@@ -21,15 +21,13 @@
 
 🎓 **Educator** | Trained **150,000+ engineers** across **190 countries**
 
-🏆 **#1 Selenium WebDriver Instructor** on Udemy | **TechBeacon Top 33 Automation Leader**
-
 🎤 **International Speaker** | Presented at SauceCon, Productivity Conf, DeveloperWeek, Selenium Conference & more
 
-📚 **Content Creator** | [YouTube](https://www.youtube.com/ultimateqa?sub_confirmation=1) | [Blog](https://ultimateqa.com/) | [Newsletter](https://ultimateqa.ck.page/js-testing-tips)
+📚 **Content Creator** | [YouTube](https://www.youtube.com/ultimateqa?sub_confirmation=1) | [Blog](https://ultimateqa.com/blog) | [Newsletter](https://ultimateqa.ck.page/js-testing-tips)
 
 🔨 **Projects Portfolio** | [View My Work](https://projects.ultimateqa.com/)
 
-💚 Like my content? [Buy me a salad](https://www.buymeacoffee.com/nikolaya)
+💚 Like my content? [Buy me a coffee](https://www.buymeacoffee.com/nikolaya)
 
 ---
 
