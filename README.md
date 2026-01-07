@@ -80,7 +80,7 @@
     </td>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/🚀_NEW-Temporal-00D9FF?style=for-the-badge" />
-      <h3>Temporal for Beginners: Durable Execution</h3>
+      <h3>Temporal for Beginners: Durable Execution Fundamentals</h3>
       <p>Learn durable execution fundamentals with TypeScript</p>
       <p>🔥 <b>Build robust distributed systems</b></p>
       <a href="https://www.udemy.com/course/temporal-for-beginners/">
