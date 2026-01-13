@@ -31,6 +31,48 @@
 
 ---
 
+## 🌟 Elevating Human Productivity Using Technology and AI
+
+<p align="center">
+  <i>Some of the apps that I've built to elevate humans:</i>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>🏆 VictoryHub</h3>
+      <p>AI-powered productivity platform</p>
+      <a href="https://victoryhub.vercel.app/">
+        <img src="https://img.shields.io/badge/Visit_App-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <h3>⚡ LimitlessOS</h3>
+      <p>Next-generation operating system interface</p>
+      <a href="https://limitlessos.vercel.app/">
+        <img src="https://img.shields.io/badge/Visit_App-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <h3>👁️ MyVision</h3>
+      <p>Vision-driven application platform</p>
+      <a href="https://myvision0.vercel.app/">
+        <img src="https://img.shields.io/badge/Visit_App-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <br/>
+      <a href="https://projects.ultimateqa.com/">
+        <img src="https://img.shields.io/badge/View_All_Projects-00D9FF?style=for-the-badge" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🎯 Expertise & Technologies
 
 <p align="center">
