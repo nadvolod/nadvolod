@@ -40,6 +40,13 @@
 <table align="center">
   <tr>
     <td align="center" width="33%">
+      <h3>⚡ LimitlessOS</h3>
+      <p>Next-generation operating system interface</p>
+      <a href="https://limitlessos.vercel.app/">
+        <img src="https://img.shields.io/badge/🚀_Sign_Up_Now-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="33%">
       <h3>🏆 VictoryHub</h3>
       <p>AI-powered productivity platform</p>
       <a href="https://victoryhub.vercel.app/">
@@ -47,17 +54,10 @@
       </a>
     </td>
     <td align="center" width="33%">
-      <h3>⚡ LimitlessOS</h3>
-      <p>Next-generation operating system interface</p>
-      <a href="https://limitlessos.vercel.app/">
-        <img src="https://img.shields.io/badge/Visit_App-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <h3>👁️ MyVision</h3>
-      <p>Vision-driven application platform</p>
-      <a href="https://myvision0.vercel.app/">
-        <img src="https://img.shields.io/badge/Visit_App-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
+      <h3>📝 Life Notes</h3>
+      <p>Capture and organize your life notes</p>
+      <a href="https://life-notes.replit.app/">
+        <img src="https://img.shields.io/badge/Visit_App-00D9FF?style=for-the-badge&logo=replit&logoColor=white" />
       </a>
     </td>
   </tr>
