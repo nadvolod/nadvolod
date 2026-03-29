@@ -27,37 +27,92 @@
 
 🔨 **Projects Portfolio** | [View My Work](https://projects.ultimateqa.com/)
 
-💚 Like my content? [Buy me a coffee](https://www.buymeacoffee.com/nikolaya)
-
 ---
 
 ## 🌟 Elevating Human Productivity Using Technology and AI
 
 <p align="center">
-  <i>Some of the apps that I've built to elevate humans:</i>
+  <i>Building AI-powered apps that elevate humans</i>
 </p>
+
+### 🧠 Note My Life — *Never Learn the Same Lesson Twice*
+
+<p align="center">
+  <a href="https://notemylife.com">
+    <img src="https://img.shields.io/badge/🚀_Try_Note_My_Life-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+A personal wisdom capture and reminder app that helps you record life insights via text or voice, organize them by category, and receive intelligent reminders so your hard-won lessons are never forgotten. Features encrypted note storage, AI-powered voice transcription, and durable workflow scheduling for reminders.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Temporal-000000?style=flat-square&logo=temporal&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL_(Neon)-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenAI_Whisper-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clerk_Auth-6C47FF?style=flat-square&logo=clerk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Resend-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/AES--256--GCM_Encryption-2B2D42?style=flat-square&logo=letsencrypt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+</p>
+
+---
+
+### 🚀 More Projects
 
 <table align="center">
   <tr>
     <td align="center" width="33%">
+      <h3>🎯 CEO Mission Control</h3>
+      <p>AI Chief of Staff — one command center for priorities, focus hours, finances & decisions</p>
+      <a href="https://ceo-mission-control-nine.vercel.app/">
+        <img src="https://img.shields.io/badge/Try_It-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="33%">
       <h3>⚡ LimitlessOS</h3>
       <p>Next-generation operating system interface</p>
       <a href="https://limitlessos.vercel.app/">
-        <img src="https://img.shields.io/badge/🚀_Sign_Up_Now-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Try_It-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
     </td>
     <td align="center" width="33%">
       <h3>🏆 VictoryHub</h3>
       <p>AI-powered productivity platform</p>
       <a href="https://victoryhub.vercel.app/">
-        <img src="https://img.shields.io/badge/Visit_App-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Try_It-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <h3>✅ AI Task List</h3>
+      <p>AI-powered task capture with voice commands & image upload</p>
+      <a href="https://github.com/nadvolod/ai-task-list">
+        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
     <td align="center" width="33%">
-      <h3>📝 Life Notes</h3>
-      <p>Capture and organize your life notes</p>
-      <a href="https://life-notes.replit.app/">
-        <img src="https://img.shields.io/badge/Visit_App-00D9FF?style=for-the-badge&logo=replit&logoColor=white" />
+      <h3>📊 Magic Social</h3>
+      <p>AI agent that turns GitHub commits into LinkedIn posts</p>
+      <a href="https://github.com/nadvolod/magic-social">
+        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <h3>📅 Weekly Ritual</h3>
+      <p>Disciplined weekly accountability system with trend analysis</p>
+      <a href="https://github.com/nadvolod/weeklyritual">
+        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
   </tr>
@@ -65,7 +120,7 @@
     <td align="center" colspan="3">
       <br/>
       <a href="https://projects.ultimateqa.com/">
-        <img src="https://img.shields.io/badge/View_All_Projects-00D9FF?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/View_All_14+_Projects-00D9FF?style=for-the-badge" />
       </a>
     </td>
   </tr>
@@ -89,16 +144,22 @@
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=temporal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
