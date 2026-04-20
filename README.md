@@ -1,3 +1,17 @@
+<!-- LATEST_PROJECT:START -->
+
+## 🚀 Latest Project
+
+**[UltimateQA Projects - Test Automation Practice Platform](https://projects.ultimateqa.com)**
+
+A hands-on practice platform for software testers and automation engineers to sharpen their skills against real-world UI scenarios. Built for QA professionals who want meaningful, repeatable testing challenges.
+
+_Highlights:_ Real-world UI scenarios, Automation-friendly elements, Repeatable test targets, Skill-building exercises
+
+Source: [nadvolod/ultimateqa-projects](https://github.com/nadvolod/ultimateqa-projects)
+
+<!-- LATEST_PROJECT:END -->
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Nikolay+Advolodkin;AI+Agents+%7C+Distributed+Systems+%7C+Temporal;Founder+of+UltimateQA;Trained+150%2C000%2B+Engineers+in+190+Countries" alt="Typing SVG" />
 </div>
