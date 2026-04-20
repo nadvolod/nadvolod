@@ -1,3 +1,17 @@
+<!-- LATEST_PROJECT:START -->
+
+## 🚀 Latest Project
+
+**[Note My Life - Capture Your Hard-Earned Wisdom](https://notemylife-v2.vercel.app)**
+
+A personal knowledge journaling app that helps you record life lessons and insights so you never repeat the same mistakes. Built for reflective individuals who want to turn experience into lasting wisdom.
+
+_Highlights:_ capture life lessons instantly, never relearn the same lesson, searchable wisdom journal, quick note entry, insight preservation
+
+Source: [nadvolod/LifeNotes](https://github.com/nadvolod/LifeNotes)
+
+<!-- LATEST_PROJECT:END -->
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Nikolay+Advolodkin;AI+Agents+%7C+Distributed+Systems+%7C+Temporal;Founder+of+UltimateQA;Trained+150%2C000%2B+Engineers+in+190+Countries" alt="Typing SVG" />
 </div>
