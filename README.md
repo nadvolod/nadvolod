@@ -1,3 +1,17 @@
+<!-- LATEST_PROJECT:START -->
+
+## 🚀 Latest Project
+
+**[Carmen Ramirez - Personal Brand Portfolio Site](https://carmen-ramirez.vercel.app)**
+
+A sleek Next.js personal portfolio site for Carmen Ramirez, showcasing professional work and personal brand to potential clients and collaborators.
+
+_Highlights:_ Next.js powered, Vercel deployed, optimized fonts, fast performance
+
+Source: [nadvolod/carmen-ramirez](https://github.com/nadvolod/carmen-ramirez)
+
+<!-- LATEST_PROJECT:END -->
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Nikolay+Advolodkin;AI+Agents+%7C+Distributed+Systems+%7C+Temporal;Founder+of+UltimateQA;Trained+150%2C000%2B+Engineers+in+190+Countries" alt="Typing SVG" />
 </div>
