@@ -9,9 +9,6 @@
   <a href="https://twitter.com/intent/follow?screen_name=nikolay_a00&region=follow_link"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nadvolod&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
-</p>
 
 ---
 
