@@ -12,15 +12,15 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Nikolay
 
-🤖 **AI Agents & Distributed Systems Expert** specializing in durable execution, Temporal workflows, and AI-powered applications
+🤖 **AI Agents & Distributed Systems** specializing in durable execution, Temporal workflows, and AI-powered applications
 
 🎓 **Educator** | Trained **150,000+ engineers** across **190 countries**
 
 🎤 **International Speaker** | Presented at SauceCon, Productivity Conf, DeveloperWeek, Selenium Conference & more
 
-📚 **Content Creator** | [YouTube](https://www.youtube.com/ultimateqa?sub_confirmation=1) | [Blog](https://ultimateqa.com/blog) | [Newsletter](https://ultimateqa.ck.page/js-testing-tips)
+📚 **Content Creator** | [LinkedIn](https://www.linkedin.com/in/nikolayadvolodkin/) | [YouTube](https://www.youtube.com/ultimateqa?sub_confirmation=1) | [Blog](https://ultimateqa.com/blog) 
 
 🔨 **Projects Portfolio** | [View My Work](https://projects.ultimateqa.com/)
 
