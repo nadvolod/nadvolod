@@ -1,3 +1,17 @@
+<!-- LATEST_PROJECT:START -->
+
+## 🚀 Latest Project
+
+**[KratosRx - Physician-Prescribed GLP-1 Care, Delivered](https://www.kratosrx.com)**
+
+KratosRx connects patients with physician-prescribed GLP-1 treatments delivered directly to their door, making weight management care accessible and hassle-free. Built for people ready to take control of their health without navigating traditional healthcare barriers.
+
+_Highlights:_ Physician-prescribed GLP-1 therapy, Direct-to-door delivery, Telehealth-enabled care, Patient-first onboarding
+
+Source: [nadvolod/project-freedom](https://github.com/nadvolod/project-freedom)
+
+<!-- LATEST_PROJECT:END -->
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Nikolay+Advolodkin;AI+Agents+%7C+Distributed+Systems+%7C+Temporal;Founder+of+UltimateQA;Trained+150%2C000%2B+Engineers+in+190+Countries" alt="Typing SVG" />
 </div>
