@@ -1,3 +1,17 @@
+<!-- LATEST_PROJECT:START -->
+
+## 🚀 Latest Project
+
+**[Nexus Games - Workshop Chaos Sandbox](https://nexus-games-seven-jade.vercel.app)**
+
+A playful web sandbox environment built for testing and workshop experimentation, giving developers a live playground to explore UI chaos scenarios.
+
+_Highlights:_ Live Vercel deployment, interactive chaos sandbox, developer workshop tool, open-source playground
+
+Source: [nadvolod/nexus-games](https://github.com/nadvolod/nexus-games)
+
+<!-- LATEST_PROJECT:END -->
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Nikolay+Advolodkin;AI+Agents+%7C+Distributed+Systems+%7C+Temporal;Founder+of+UltimateQA;Trained+150%2C000%2B+Engineers+in+190+Countries" alt="Typing SVG" />
 </div>
