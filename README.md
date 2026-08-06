@@ -1,3 +1,17 @@
+<!-- LATEST_PROJECT:START -->
+
+## 🚀 Latest Project
+
+**[Nexus Games - Workshop Chaos Sandbox](https://nexus-games-seven-jade.vercel.app)**
+
+A hands-on sandbox environment for developers and testers to experiment with unpredictable UI scenarios and edge cases. Built for QA workshops and testing skill-building exercises.
+
+_Highlights:_ Interactive UI chaos scenarios, Edge case simulation, QA skill building, Workshop-ready sandbox
+
+Source: [nadvolod/nexus-games](https://github.com/nadvolod/nexus-games)
+
+<!-- LATEST_PROJECT:END -->
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Nikolay+Advolodkin;AI+Agents+%7C+Distributed+Systems+%7C+Temporal;Founder+of+UltimateQA;Trained+150%2C000%2B+Engineers+in+190+Countries" alt="Typing SVG" />
 </div>
