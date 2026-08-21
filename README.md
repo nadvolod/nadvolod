@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.udemy.com/user/nikolaya/"><img src="https://img.shields.io/badge/Udemy-Instructor-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy Instructor"></a>
-  <a href="https://ultimateqa.com/"><img src="https://img.shields.io/badge/CEO-UltimateQA-00D9FF?style=for-the-badge" alt="CEO UltimateQA"></a>
+  <a href="https://ultimateqa.com/"><img src="https://img.shields.io/badge/CEO-UltimateQA-00D9FF?style=for-the-badge" alt="Founder UltimateQA"></a>
   <a href="https://www.linkedin.com/in/nikolayadvolodkin/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/intent/follow?screen_name=nikolay_a00&region=follow_link"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p>
