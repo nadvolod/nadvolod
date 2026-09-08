@@ -1,3 +1,17 @@
+<!-- LATEST_PROJECT:START -->
+
+## 🚀 Latest Project
+
+**[CRO Agent - AI-Powered Revenue Optimization](https://cro-ai-omega.vercel.app)**
+
+An AI-powered Chief Revenue Officer that analyzes and optimizes product portfolios to maximize revenue performance. Built for founders and growth teams who need intelligent, data-driven revenue strategy at scale.
+
+_Highlights:_ AI revenue analysis, portfolio optimization, growth strategy automation, instant CRO insights
+
+Source: [nadvolod/cro-ai](https://github.com/nadvolod/cro-ai)
+
+<!-- LATEST_PROJECT:END -->
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Nikolay+Advolodkin;AI+Agents+%7C+Distributed+Systems+%7C+Temporal;Founder+of+UltimateQA;Trained+150%2C000%2B+Engineers+in+190+Countries" alt="Typing SVG" />
 </div>
